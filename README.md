@@ -50,7 +50,7 @@ diskos-v2/
 ## Feature Checklist
 
 ### Core File System
-- [x] Bitmap allocation (128 blocks × 64 B)
+- [x] Bitmap allocation (2560 blocks × 4096 B)
 - [x] Inode structure: id, name, ext, blocks, size, created, modified, status
 - [x] Write, Read, Delete, **Update** (CRUD)
 - [x] Fragmentation calculation
