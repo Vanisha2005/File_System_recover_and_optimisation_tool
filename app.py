@@ -485,7 +485,7 @@ def seed():
 
 
 seed()
-seed_files()   # 👈 ADD THIS
+seed_files()   #  ADD THIS
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
